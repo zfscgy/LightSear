@@ -17,7 +17,7 @@ Fetching pages is done by using [Scrapling](https://github.com/D4Vinci/Scrapling
 
 ## Installation
 
-(TODO)
+(TODO, download the source currently)
 
 ```bash
 pip install lightsear
